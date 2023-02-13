@@ -10,7 +10,7 @@ const app = express();
 
 app.use(express.json());
 
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 app.get('/home', (req, res) => {
     res.send('home route ');
