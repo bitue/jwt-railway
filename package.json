@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitue/railway-jwt-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bitue/railway-jwt-test/issues"
+  },
+  "homepage": "https://github.com/bitue/railway-jwt-test#readme",
+  "description": ""
+}
